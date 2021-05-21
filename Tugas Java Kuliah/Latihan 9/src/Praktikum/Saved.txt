@@ -1,0 +1,33 @@
+/*tb.addHeaderRow(new TableRow(
+                new TableColumn("Tugas", TableColumn.TEXT_ALIGNMENT_LEFT, 2),
+                new TableColumn("Ujian", 0, 1),
+                new TableColumn("NA")));
+        tb.addHeaderRow(new TableLine());
+        tb.addHeaderRow("A", "B", "C", "A", "B", "");
+        TableColumn tc = tb.Header.get(0).Column.get(0);
+        tb.addRow(new TableRow(
+                new TableColumn(0,TableColumn.TEXT_ALIGNMENT_RIGHT),
+                new TableColumn(50,TableColumn.TEXT_ALIGNMENT_RIGHT),
+                new TableColumn(45,TableColumn.TEXT_ALIGNMENT_RIGHT),
+                new TableColumn(55, TableColumn.TEXT_ALIGNMENT_RIGHT),
+                new TableColumn(48, TableColumn.TEXT_ALIGNMENT_RIGHT),
+                new TableColumn(45, TableColumn.TEXT_ALIGNMENT_RIGHT)));
+        tb.addRow(new TableRow(
+                new TableColumn(100,TableColumn.TEXT_ALIGNMENT_RIGHT),
+                new TableColumn(75,TableColumn.TEXT_ALIGNMENT_RIGHT),
+                new TableColumn(85,TableColumn.TEXT_ALIGNMENT_RIGHT),
+                new TableColumn(80, TableColumn.TEXT_ALIGNMENT_RIGHT),
+                new TableColumn(90, TableColumn.TEXT_ALIGNMENT_RIGHT),
+                new TableColumn(82, TableColumn.TEXT_ALIGNMENT_RIGHT)));
+        tb.addRow(new TableRow(
+                new TableColumn(80,TableColumn.TEXT_ALIGNMENT_RIGHT),
+                new TableColumn(5,TableColumn.TEXT_ALIGNMENT_RIGHT),
+                new TableColumn(60,TableColumn.TEXT_ALIGNMENT_RIGHT),
+                new TableColumn(65,TableColumn.TEXT_ALIGNMENT_RIGHT),
+                new TableColumn(75, TableColumn.TEXT_ALIGNMENT_RIGHT),
+                new TableColumn(55, TableColumn.TEXT_ALIGNMENT_RIGHT)));
+        tb.addRow(new TableLine());
+        tb.addRow(new TableRow(
+                new TableColumn("Nilai Rata-rata",TableColumn.TEXT_ALIGNMENT_RIGHT, 4),
+                new TableColumn(67)));
+        System.out.println(tb.getTable());*/
